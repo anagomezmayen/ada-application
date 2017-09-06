@@ -17,8 +17,6 @@ Comunication, team player, active listening, analytical, trainable, conflict res
   * Develop new classes and help some students after class
 
 ### Education
-* _MS Computer Engineering_ 2009
-  National University of Mexico
 
 * _Degree in Computer Science_ 2005
 National University of Mexico
